@@ -16,5 +16,5 @@ apache/rocketmq:4.9.6
 docker.elastic.co/kibana/kibana:8.11.4
 
 
---platform=linux/arm64 minio/minio:RELEASE.2021-06-14T01-29-23Z
-minio/minio:RELEASE.2021-06-14T01-29-23Z
+--platform=linux/arm64 bitnami/minio:2024.7.4
+bitnami/minio:2024.7.4
