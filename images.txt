@@ -26,4 +26,5 @@
 --platform=linux/arm64 docker.elastic.co/logstash/logstash:8.11.4
 
 #apacherocketmq/rocketmq-dashboard:latest
-apache/rocketmq:4.9.3
+#apache/rocketmq:4.9.3
+arm64v8/maven:3.8.6-openjdk-11
