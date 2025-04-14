@@ -7,7 +7,7 @@
 
 #mysql:8.0
 #--platform=linux/arm64 mysql:8.0
-mysql:8.0.26
+
 
 #--platform=linux/arm64 redis:7.2
 #redis:7.2
@@ -23,4 +23,5 @@ mysql:8.0.26
 #docker.elastic.co/logstash/logstash:8.11.4
 
 #apacherocketmq/rocketmq-dashboard:latest
+apache/rocketmq:4.9.3
 
