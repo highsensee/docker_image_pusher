@@ -27,5 +27,3 @@
 
 #apacherocketmq/rocketmq-dashboard:latest
 apache/rocketmq:4.9.3
-
---platform=linux/arm64 apache/rocketmq:4.9.3
