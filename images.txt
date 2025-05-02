@@ -20,13 +20,13 @@
 
 #docker.elastic.co/elasticsearch/elasticsearch:8.11.4
 #--platform=linux/arm64 docker.elastic.co/elasticsearch/elasticsearch:8.11.4
-docker.elastic.co/elasticsearch/elasticsearch:6.8.7
+#docker.elastic.co/elasticsearch/elasticsearch:6.8.7
 #docker.elastic.co/kibana/kibana:8.11.4
 #--platform=linux/arm64 docker.elastic.co/kibana/kibana:8.11.4
-docker.elastic.co/kibana/kibana:6.8.7
+#docker.elastic.co/kibana/kibana:6.8.7
 #docker.elastic.co/logstash/logstash:8.11.4
 #--platform=linux/arm64 docker.elastic.co/logstash/logstash:8.11.4
-docker.elastic.co/logstash/logstash:6.8.7
+#docker.elastic.co/logstash/logstash:6.8.7
 
 #apacherocketmq/rocketmq-dashboard:latest
 #apache/rocketmq:4.9.3
@@ -35,5 +35,5 @@ docker.elastic.co/logstash/logstash:6.8.7
 #arm64v8/maven:3.8.6-openjdk-8
 #arm64v8/openjdk:11-jdk-slim-buster
 #arm64v8/openjdk:8-jdk-alpine
-
+maven:3.8.6-openjdk-8
 
