@@ -16,7 +16,7 @@
 #docker.elastic.co/kibana/kibana:8.11.4
 
 #--platform=linux/arm64 bitnami/minio:2024.7.4
-#bitnami/minio:2024.7.4
+bitnami/minio:2024.7.4
 
 #docker.elastic.co/elasticsearch/elasticsearch:8.11.4
 #--platform=linux/arm64 docker.elastic.co/elasticsearch/elasticsearch:8.11.4
@@ -33,7 +33,9 @@
 
 #arm64v8/maven:3.8.6-openjdk-11
 #arm64v8/maven:3.8.6-openjdk-8
+#maven:3.8.6-openjdk-8
+
 #arm64v8/openjdk:11-jdk-slim-buster
 #arm64v8/openjdk:8-jdk-alpine
-maven:3.8.6-openjdk-8
+
 
