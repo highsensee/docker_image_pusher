@@ -52,4 +52,4 @@
 
 #minio/minio:latest
 #mysql:8.0
-gogs/gogs:0.1
+gogs/gogs:0.13
