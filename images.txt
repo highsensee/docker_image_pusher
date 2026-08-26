@@ -42,14 +42,14 @@
 
 
 
-nginx:1.25
+#nginx:1.25
 
 
 #--platform=linux/arm64 redis:7.2
 #redis:7.2
-redis:alpine
+#redis:alpine
 
 
-minio/minio:latest
-mysql:8.0
-
+#minio/minio:latest
+#mysql:8.0
+gogs/gogs:0.1
