@@ -52,8 +52,13 @@
 
 #minio/minio:latest
 #mysql:8.0
+
+#k8s 相关
 #gogs/gogs:0.13
-rancher/mirrored-coredns-coredns:1.14.6
-rancher/klipper-helm:v0.13.3-build20260727
-rancher/local-path-provisioner:v0.0.36 
-rancher/mirrored-metrics-server:v0.9.0
+#rancher/mirrored-coredns-coredns:1.14.6
+#rancher/klipper-helm:v0.13.3-build20260727
+#rancher/local-path-provisioner:v0.0.36 
+#rancher/mirrored-metrics-server:v0.9.0
+
+yycx/oracle11:11.2.0.4
+
