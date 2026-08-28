@@ -40,8 +40,6 @@
 #zmister/mrdoc:v9.3
 #centos:centos7
 
-
-
 #nginx:1.25
 
 
@@ -49,13 +47,13 @@
 #redis:7.2
 #redis:alpine
 
-
 #minio/minio:latest
 #mysql:8.0
 
 #k8s 相关
 #gogs/gogs:0.13
-gitea/gitea:1.22.3
+#gitea/gitea:1.22.3
+harness/gitness:latest
 #rancher/mirrored-coredns-coredns:1.14.6
 #rancher/klipper-helm:v0.13.3-build20260727
 #rancher/local-path-provisioner:v0.0.36 
