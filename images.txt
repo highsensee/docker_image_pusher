@@ -53,11 +53,20 @@
 #k8s 相关
 #gogs/gogs:0.13
 #gitea/gitea:1.22.3
-harness/gitness:latest
 #rancher/mirrored-coredns-coredns:1.14.6
 #rancher/klipper-helm:v0.13.3-build20260727
 #rancher/local-path-provisioner:v0.0.36 
 #rancher/mirrored-metrics-server:v0.9.0
+
+ghcr.io/tektoncd/pipeline/controller-10a3e32792f33651396d02b6855a6e36:v1.6.0@sha256:84efabe03a5e5441379171d5c071bc28612aa7656ec4f508b01d89ee431e4141
+ghcr.io/tektoncd/pipeline/events-a9042f7efb0cbade2a868a1ee5ddd52c:v1.6.0@sha256:a601df6f1ef7f031b004b108eb2d7c215577b3b5231a43fa6b0ae6bf5af31025
+ghcr.io/tektoncd/pipeline/resolvers-ff86b24f130c42b88983d3c13993056d:v1.6.0@sha256:e77cc55c6e507c393be029335c765c6c34238ee48b49379428da3d01713e9293
+ghcr.io/tektoncd/pipeline/webhook-d4749e605405422fd87700164e31b2d1:v1.6.0@sha256:c326a2f5c4988abcfd67b5a8edd5525da2110f2b8d3f6c50c27f8d25a721e566
+
+ghcr.io/tektoncd/triggers/controller-f656ca31de179ab913fa76abc255c315:v0.34.0@sha256:472ed3311309a9ac066afd8be2ae435cb6cc5bc73240a5f82a9b04ee5c6f77eb
+ghcr.io/tektoncd/triggers/webhook-dd1edc925ee1772a9f76e2c1bc291ef6:v0.34.0@sha256:71ef9c830240870c76496f1858abc350d08be93365fc8bea17853aa94f64adcd
+ghcr.io/tektoncd/triggers/interceptors-3176d6a3f314c3655b30bfd36e421dd5:v0.34.0@sha256:b7858bddaa29c376c1f79f87c96ccdf9588f320a547950638f51e0c84303fd69
+
 
 #yycx/oracle11:11.2.0.4
 
