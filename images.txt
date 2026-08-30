@@ -66,8 +66,8 @@
 #ghcr.io/tektoncd/triggers/controller-f656ca31de179ab913fa76abc255c315:v0.34.0@sha256:472ed3311309a9ac066afd8be2ae435cb6cc5bc73240a5f82a9b04ee5c6f77eb
 #ghcr.io/tektoncd/triggers/webhook-dd1edc925ee1772a9f76e2c1bc291ef6:v0.34.0@sha256:71ef9c830240870c76496f1858abc350d08be93365fc8bea17853aa94f64adcd
 #ghcr.io/tektoncd/triggers/interceptors-3176d6a3f314c3655b30bfd36e421dd5:v0.34.0@sha256:b7858bddaa29c376c1f79f87c96ccdf9588f320a547950638f51e0c84303fd69
-ghcr.io/tektoncd/triggers/eventlistenersink-7ad1faa98cddbcb0c24990303b220bb8:v0.34.0@sha256:6af463bd78b8ce864cc89f961a4c604db297c1a5c375dd038519483b3f85541d
-
+#ghcr.io/tektoncd/triggers/eventlistenersink-7ad1faa98cddbcb0c24990303b220bb8:v0.34.0@sha256:6af463bd78b8ce864cc89f961a4c604db297c1a5c375dd038519483b3f85541d
+gcr.io/kaniko-project/executor:v1.9.0
 
 #yycx/oracle11:11.2.0.4
 
