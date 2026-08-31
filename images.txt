@@ -31,7 +31,7 @@
 
 #arm64v8/maven:3.8.6-openjdk-11
 #arm64v8/maven:3.8.6-openjdk-8
-swr.cn-north-4.myhuaweicloud.com/ddn-k8s/docker.io/eclipse-temurin:8-jre
+#swr.cn-north-4.myhuaweicloud.com/ddn-k8s/docker.io/eclipse-temurin:8-jre
 
 #maven:3.8.6-openjdk-8
 #arm64v8/openjdk:11-jdk-slim-buster
@@ -69,6 +69,10 @@ swr.cn-north-4.myhuaweicloud.com/ddn-k8s/docker.io/eclipse-temurin:8-jre
 #ghcr.io/tektoncd/triggers/interceptors-3176d6a3f314c3655b30bfd36e421dd5:v0.34.0@sha256:b7858bddaa29c376c1f79f87c96ccdf9588f320a547950638f51e0c84303fd69
 #ghcr.io/tektoncd/triggers/eventlistenersink-7ad1faa98cddbcb0c24990303b220bb8:v0.34.0@sha256:6af463bd78b8ce864cc89f961a4c604db297c1a5c375dd038519483b3f85541d
 #gcr.io/kaniko-project/executor:v1.9.0
+ghcr.io/dexidp/dex:v2.45.1
+public.ecr.aws/docker/library/redis:8.2.3-alpine
+quay.io/argoproj/argocd:v3.5.2
+
 
 #yycx/oracle11:11.2.0.4
 
