@@ -37,8 +37,8 @@
 #arm64v8/openjdk:11-jdk-slim-buster
 #arm64v8/openjdk:8-jdk-alpine
 
-golang:1.26-alpine
-
+#golang:1.26-alpine
+#alpine:latest
 
 #--platform=linux/arm64 mysql:8.0
 #zmister/mrdoc:v9.3
