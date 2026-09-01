@@ -37,6 +37,9 @@
 #arm64v8/openjdk:11-jdk-slim-buster
 #arm64v8/openjdk:8-jdk-alpine
 
+golang:1.26-alpine
+
+
 #--platform=linux/arm64 mysql:8.0
 #zmister/mrdoc:v9.3
 #centos:centos7
@@ -72,7 +75,7 @@
 #ghcr.io/dexidp/dex:v2.45.1
 # redis 拉取失败
 #public.ecr.aws/docker/library/redis:8.2.3-alpine
-quay.io/argoproj/argocd:v3.5.2
+#quay.io/argoproj/argocd:v3.5.2
 
 
 #yycx/oracle11:11.2.0.4
