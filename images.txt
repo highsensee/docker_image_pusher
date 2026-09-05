@@ -38,14 +38,14 @@
 #arm64v8/openjdk:8-jdk-alpine
 
 #golang:1.26-alpine
-alpine:latest
+#alpine:latest
 
 #--platform=linux/arm64 mysql:8.0
 #zmister/mrdoc:v9.3
 #centos:centos7
 
 #nginx:1.25
-
+ghcr.io/cjackhwang/ds2api:latest
 
 #--platform=linux/arm64 redis:7.2
 #redis:7.2
