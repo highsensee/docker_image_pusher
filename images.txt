@@ -45,7 +45,6 @@
 #centos:centos7
 
 #nginx:1.25
-ghcr.io/cjackhwang/ds2api:latest
 
 #--platform=linux/arm64 redis:7.2
 #redis:7.2
@@ -73,6 +72,12 @@ ghcr.io/cjackhwang/ds2api:latest
 #ghcr.io/tektoncd/triggers/eventlistenersink-7ad1faa98cddbcb0c24990303b220bb8:v0.34.0@sha256:6af463bd78b8ce864cc89f961a4c604db297c1a5c375dd038519483b3f85541d
 #gcr.io/kaniko-project/executor:v1.9.0
 #ghcr.io/dexidp/dex:v2.45.1
+#ghcr.io/cjackhwang/ds2api:latest
+
+
+#flink
+flink:1.19-java8
+
 # redis 拉取失败
 #public.ecr.aws/docker/library/redis:8.2.3-alpine
 #quay.io/argoproj/argocd:v3.5.2
