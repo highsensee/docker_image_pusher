@@ -76,8 +76,10 @@
 
 
 #flink
-flink:1.19-java8
-flink:1.19-java11
+#flink:1.19-java8
+#flink:1.19-java11
+flink-kubernetes-operator:1.6.0
+flink-kubernetes-operator:1.7.0
 
 # redis 拉取失败
 #public.ecr.aws/docker/library/redis:8.2.3-alpine
