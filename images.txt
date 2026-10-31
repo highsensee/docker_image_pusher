@@ -78,9 +78,9 @@
 #flink
 #flink:1.19-java8
 #flink:1.19-java11
-apache/flink:1.18.1
-apache/flink-kubernetes-operator:1.6.0
-apache/flink-kubernetes-operator:1.7.0
+#apache/flink:1.18.1
+#apache/flink-kubernetes-operator:1.6.0
+#apache/flink-kubernetes-operator:1.7.0
 
 # redis 拉取失败
 #public.ecr.aws/docker/library/redis:8.2.3-alpine
@@ -89,5 +89,5 @@ apache/flink-kubernetes-operator:1.7.0
 #yycx/oracle11:11.2.0.4
 
 # android
-redroid/redroid:13.0.0_64only-latest
-
+#redroid/redroid:13.0.0_64only-latest
+novnc/no-vnc:latest
