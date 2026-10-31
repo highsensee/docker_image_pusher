@@ -89,5 +89,8 @@
 #yycx/oracle11:11.2.0.4
 
 # android
+# arm64
 #redroid/redroid:13.0.0_64only-latest
-theasp/novnc:latest
+# amd
+redroid/redroid:13.0.0-latest   
+#theasp/novnc:latest
